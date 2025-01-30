@@ -1,2 +1,14 @@
 Console.WriteLine("Zaryab Kashif");
 Console.WriteLine("24-ST-002");
+Console.WriteLine("Enter the number 1");
+int a = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter the number 2");
+int b = Convert.ToInt32(Console.ReadLine());
+x = a +b;
+Console.WriteLine($"The Sum of two number is {x}");
+y = a - b;
+Console.WriteLine($"The substraction of two number is {y}");
+z = a * b;
+Console.WriteLine($" The multiplication of two numbers is {z}");
+p = a / b;
+Console.WriteLine($"The division of two numbers is {p}");
