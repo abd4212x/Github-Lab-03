@@ -8,3 +8,5 @@ x = a +b;
 Console.WriteLine($"The Sum of two number is {x}");
 y = a - b;
 Console.WriteLine($"The substraction of two number is {y}");
+z = a * b;
+Console.WriteLine($" The multiplication of two numbers is {z}");
