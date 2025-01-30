@@ -6,3 +6,5 @@ Console.WriteLine("Enter the number 2");
 int b = Convert.ToInt32(Console.ReadLine());
 x = a +b;
 Console.WriteLine($"The Sum of two number is {x}");
+y = a - b;
+Console.WriteLine($"The substraction of two number is {y}");
